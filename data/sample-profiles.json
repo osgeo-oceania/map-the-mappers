@@ -1,0 +1,1119 @@
+[
+  {
+    "id": "15",
+    "listing_name": "Adelaide Geospatial Training Institute",
+    "profile_type": [
+      "Academic / research institution",
+      "Service provider / consultancy"
+    ],
+    "country": "Australia",
+    "city_region": "Adelaide",
+    "lat": -34.9285,
+    "lon": 138.6007,
+    "contact_url": "mailto:hello@adelaide-geospatial-training-institute.example.org",
+    "primary_url": "https://adelaide-geospatial-training-institute.example.org",
+    "short_description": "Comprehensive training programs in QGIS, PostGIS, and web mapping technologies",
+    "longer_about": "Comprehensive training programs in QGIS, PostGIS, and web mapping technologies for professionals in South Australia.",
+    "oss_projects": [],
+    "capability_areas": [
+      "Web mapping & web applications",
+      "Geospatial databases & infrastructure",
+      "Consulting & advisory"
+    ]
+  },
+  {
+    "id": "41",
+    "listing_name": "Aitutaki Coastal Mapping",
+    "profile_type": ["Service provider / consultancy"],
+    "country": "Cook Islands",
+    "city_region": "Arutanga",
+    "lat": -18.85,
+    "lon": -159.7833,
+    "contact_url": "mailto:hello@aitutaki-coastal-mapping.example.org",
+    "primary_url": "https://aitutaki-coastal-mapping.example.org",
+    "short_description": "Coastal and marine mapping services using open source geospatial tools",
+    "longer_about": "Coastal and marine mapping services for Aitutaki using open source geospatial tools.",
+    "oss_projects": [],
+    "capability_areas": [
+      "Web mapping & web applications",
+      "Geospatial databases & infrastructure",
+      "Open data publishing & sharing",
+      "Training & capacity building",
+      "Consulting & advisory"
+    ]
+  },
+  {
+    "id": "33",
+    "listing_name": "Apia Pacific Open Source Geospatial Initiative",
+    "profile_type": [
+      "Service provider / consultancy",
+      "Community organisation"
+    ],
+    "country": "Samoa",
+    "city_region": "Apia",
+    "lat": -13.8298,
+    "lon": -171.7668,
+    "contact_url": "mailto:hello@apia-pacific-open-source-geospatial-initiative.example.org",
+    "primary_url": "https://apia-pacific-open-source-geospatial-initiative.example.org",
+    "short_description": "Community organization supporting open source geospatial software adoption",
+    "longer_about": "Community organization supporting open source geospatial software adoption across Pacific Island nations.",
+    "oss_projects": [],
+    "capability_areas": [
+      "Web mapping & web applications",
+      "Open data publishing & sharing"
+    ]
+  },
+  {
+    "id": "1",
+    "listing_name": "Auckland Geospatial Solutions",
+    "profile_type": [
+      "Software vendor / maintainer",
+      "Service provider / consultancy"
+    ],
+    "country": "New Zealand",
+    "city_region": "Auckland",
+    "lat": -36.8485,
+    "lon": 174.7633,
+    "contact_url": "mailto:hello@auckland-geospatial-solutions.example.org",
+    "primary_url": "https://auckland-geospatial-solutions.example.org",
+    "short_description": "Leading geospatial consulting firm providing comprehensive open source GIS solutions",
+    "longer_about": "Leading geospatial consulting firm providing comprehensive open source GIS solutions for government and private sector clients in Auckland.",
+    "oss_projects": [
+      {
+        "name": "Auckland Toolkit",
+        "url": "https://example.com/auckland-geospatial-solutions"
+      }
+    ],
+    "capability_areas": [
+      "Web mapping & web applications",
+      "Geospatial databases & infrastructure",
+      "Custom development",
+      "Consulting & advisory"
+    ]
+  },
+  {
+    "id": "29",
+    "listing_name": "Auki GIS Consulting",
+    "profile_type": [
+      "Government / public-sector organisation",
+      "Service provider / consultancy"
+    ],
+    "country": "Solomon Islands",
+    "city_region": "Auki",
+    "lat": -8.7676,
+    "lon": 160.6978,
+    "contact_url": "mailto:hello@auki-gis-consulting.example.org",
+    "primary_url": "https://auki-gis-consulting.example.org",
+    "short_description": "Local geospatial consulting firm providing GIS services for development projects",
+    "longer_about": "Local geospatial consulting firm providing GIS services for Malaita Province development projects.",
+    "oss_projects": [],
+    "capability_areas": [
+      "Web mapping & web applications",
+      "Geospatial databases & infrastructure",
+      "Custom development",
+      "Consulting & advisory"
+    ]
+  },
+  {
+    "id": "49",
+    "listing_name": "Bandung Open Source GIS Initiative",
+    "profile_type": ["Software vendor / maintainer"],
+    "country": "Indonesia",
+    "city_region": "Bandung",
+    "lat": -6.9175,
+    "lon": 107.6191,
+    "contact_url": "mailto:hello@bandung-open-source-gis-initiative.example.org",
+    "primary_url": "https://bandung-open-source-gis-initiative.example.org",
+    "short_description": "Community organization promoting open source GIS adoption and providing training programs",
+    "longer_about": "Community organization promoting open source GIS adoption and providing training programs in West Java.",
+    "oss_projects": [
+      {
+        "name": "Bandung Toolkit",
+        "url": "https://example.com/bandung-open-source-gis-initiative"
+      }
+    ],
+    "capability_areas": [
+      "Web mapping & web applications",
+      "Geospatial databases & infrastructure",
+      "Training & capacity building"
+    ]
+  },
+  {
+    "id": "53",
+    "listing_name": "Baucau GIS Consulting",
+    "profile_type": ["Community organisation"],
+    "country": "Timor-Leste",
+    "city_region": "Baucau",
+    "lat": -8.4714,
+    "lon": 126.4581,
+    "contact_url": "mailto:hello@baucau-gis-consulting.example.org",
+    "primary_url": "https://baucau-gis-consulting.example.org",
+    "short_description": "Local GIS consulting firm providing geospatial services for development projects",
+    "longer_about": "Local GIS consulting firm providing geospatial services for development projects in eastern Timor-Leste.",
+    "oss_projects": [],
+    "capability_areas": [
+      "Web mapping & web applications",
+      "Geospatial databases & infrastructure",
+      "Custom development"
+    ]
+  },
+  {
+    "id": "13",
+    "listing_name": "Brisbane Geospatial Support",
+    "profile_type": [
+      "Service provider / consultancy",
+      "Software vendor / maintainer"
+    ],
+    "country": "Australia",
+    "city_region": "Brisbane",
+    "lat": -27.4698,
+    "lon": 153.0251,
+    "contact_url": "mailto:hello@brisbane-geospatial-support.example.org",
+    "primary_url": "https://brisbane-geospatial-support.example.org",
+    "short_description": "Expert technical support and maintenance services for open source geospatial software",
+    "longer_about": "Expert technical support and maintenance services for QGIS, PostGIS, and GeoServer installations across Queensland.",
+    "oss_projects": [
+      {
+        "name": "Brisbane Toolkit",
+        "url": "https://example.com/brisbane-geospatial-support"
+      }
+    ],
+    "capability_areas": [
+      "Web mapping & web applications",
+      "Geospatial databases & infrastructure"
+    ]
+  },
+  {
+    "id": "50",
+    "listing_name": "Budi Komodo - GIS Specialist",
+    "profile_type": ["Service provider / consultancy"],
+    "country": "Indonesia",
+    "city_region": "Surabaya",
+    "lat": -7.2575,
+    "lon": 112.7521,
+    "contact_url": "mailto:hello@budi-komodo-gis-specialist.example.org",
+    "primary_url": "https://budi-komodo-gis-specialist.example.org",
+    "short_description": "Independent GIS specialist providing geospatial analysis and mapping services",
+    "longer_about": "Independent GIS specialist providing geospatial analysis and mapping services for East Java region clients.",
+    "oss_projects": [],
+    "capability_areas": [
+      "Web mapping & web applications",
+      "Geospatial databases & infrastructure",
+      "Custom development",
+      "Spatial analysis & modelling",
+      "Training & capacity building"
+    ]
+  },
+  {
+    "id": "16",
+    "listing_name": "Canberra Geospatial Labs",
+    "profile_type": [
+      "Academic / research institution",
+      "Software vendor / maintainer"
+    ],
+    "country": "Australia",
+    "city_region": "Canberra",
+    "lat": -35.2809,
+    "lon": 149.13,
+    "contact_url": "mailto:hello@canberra-geospatial-labs.example.org",
+    "primary_url": "https://canberra-geospatial-labs.example.org",
+    "short_description": "Developing cutting-edge open source geospatial solutions for government and enterprise",
+    "longer_about": "Developing cutting-edge open source geospatial solutions for government and enterprise clients in the capital.",
+    "oss_projects": [
+      {
+        "name": "Canberra Toolkit",
+        "url": "https://example.com/canberra-geospatial-labs"
+      }
+    ],
+    "capability_areas": [
+      "Geospatial databases & infrastructure",
+      "Web mapping & web applications",
+      "Custom development"
+    ]
+  },
+  {
+    "id": "4",
+    "listing_name": "Canterbury Open Data Initiative",
+    "profile_type": ["Service provider / consultancy"],
+    "country": "New Zealand",
+    "city_region": "Christchurch",
+    "lat": -43.5321,
+    "lon": 172.6362,
+    "contact_url": "mailto:hello@canterbury-open-data-initiative.example.org",
+    "primary_url": "https://canterbury-open-data-initiative.example.org",
+    "short_description": "Community-driven open data initiative providing geospatial datasets for the Canterbury region",
+    "longer_about": "Community-driven open data initiative providing geospatial datasets for the Canterbury region of New Zealand.",
+    "oss_projects": [],
+    "capability_areas": [
+      "Open data publishing & sharing",
+      "Geospatial databases & infrastructure",
+      "Web mapping & web applications",
+      "Consulting & advisory"
+    ]
+  },
+  {
+    "id": "46",
+    "listing_name": "Cebu OpenStreetMap Community",
+    "profile_type": ["Service provider / consultancy"],
+    "country": "Philippines",
+    "city_region": "Cebu City",
+    "lat": 10.3157,
+    "lon": 123.8854,
+    "contact_url": "mailto:hello@cebu-openstreetmap-community.example.org",
+    "primary_url": "https://cebu-openstreetmap-community.example.org",
+    "short_description": "Active OpenStreetMap community organization promoting open mapping data collection",
+    "longer_about": "Active OpenStreetMap community organization promoting open mapping data collection across the Philippines.",
+    "oss_projects": [],
+    "capability_areas": [
+      "Open data publishing & sharing",
+      "Web mapping & web applications"
+    ]
+  },
+  {
+    "id": "40",
+    "listing_name": "Cook Islands Open Data",
+    "profile_type": ["Software vendor / maintainer"],
+    "country": "Cook Islands",
+    "city_region": "Avarua",
+    "lat": -21.2075,
+    "lon": -159.7756,
+    "contact_url": "mailto:hello@cook-islands-open-data.example.org",
+    "primary_url": "https://cook-islands-open-data.example.org",
+    "short_description": "Government initiative providing open geospatial data for public access",
+    "longer_about": "Government initiative providing open geospatial data for public access and community use.",
+    "oss_projects": [
+      {
+        "name": "Cook Toolkit",
+        "url": "https://example.com/cook-islands-open-data"
+      }
+    ],
+    "capability_areas": [
+      "Geospatial databases & infrastructure",
+      "Web mapping & web applications",
+      "Open data publishing & sharing"
+    ]
+  },
+  {
+    "id": "17",
+    "listing_name": "Darwin Remote Sensing Services",
+    "profile_type": [
+      "Government / public-sector organisation",
+      "Software vendor / maintainer"
+    ],
+    "country": "Australia",
+    "city_region": "Darwin",
+    "lat": -12.4634,
+    "lon": 130.8456,
+    "contact_url": "mailto:hello@darwin-remote-sensing-services.example.org",
+    "primary_url": "https://darwin-remote-sensing-services.example.org",
+    "short_description": "Remote sensing and geospatial analysis services for mining and environmental sectors",
+    "longer_about": "Remote sensing and geospatial analysis services for Northern Territory mining and environmental sectors.",
+    "oss_projects": [
+      {
+        "name": "Darwin Toolkit",
+        "url": "https://example.com/darwin-remote-sensing-services"
+      }
+    ],
+    "capability_areas": [
+      "Web mapping & web applications",
+      "Geospatial databases & infrastructure",
+      "Spatial analysis & modelling",
+      "Custom development"
+    ]
+  },
+  {
+    "id": "51",
+    "listing_name": "Dili Geospatial Services",
+    "profile_type": ["Software vendor / maintainer"],
+    "country": "Timor-Leste",
+    "city_region": "Dili",
+    "lat": -8.5586,
+    "lon": 125.5736,
+    "contact_url": "mailto:hello@dili-geospatial-services.example.org",
+    "primary_url": "https://dili-geospatial-services.example.org",
+    "short_description": "Geospatial consulting services for infrastructure development and natural resource management",
+    "longer_about": "Geospatial consulting services for infrastructure development and natural resource management in Timor-Leste.",
+    "oss_projects": [
+      {
+        "name": "Dili Toolkit",
+        "url": "https://example.com/dili-geospatial-services"
+      }
+    ],
+    "capability_areas": [
+      "Web mapping & web applications",
+      "Geospatial databases & infrastructure",
+      "Open data publishing & sharing"
+    ]
+  },
+  {
+    "id": "14",
+    "listing_name": "Emma Kookaburra - GIS Analyst",
+    "profile_type": ["Community organisation"],
+    "country": "Australia",
+    "city_region": "Perth",
+    "lat": -31.9505,
+    "lon": 115.8605,
+    "contact_url": "mailto:hello@emma-kookaburra-gis-analyst.example.org",
+    "primary_url": "https://emma-kookaburra-gis-analyst.example.org",
+    "short_description": "Independent GIS analyst providing spatial data analysis and mapping services",
+    "longer_about": "Independent GIS analyst providing spatial data analysis and mapping services for Western Australia clients.",
+    "oss_projects": [],
+    "capability_areas": [
+      "Web mapping & web applications",
+      "Geospatial databases & infrastructure",
+      "Custom development",
+      "Spatial analysis & modelling"
+    ]
+  },
+  {
+    "id": "22",
+    "listing_name": "Fiji OpenStreetMap Community",
+    "profile_type": ["Service provider / consultancy"],
+    "country": "Fiji",
+    "city_region": "Suva",
+    "lat": -18.1248,
+    "lon": 178.4501,
+    "contact_url": "mailto:hello@fiji-openstreetmap-community.example.org",
+    "primary_url": "https://fiji-openstreetmap-community.example.org",
+    "short_description": "Community-driven OpenStreetMap data collection and mapping initiatives",
+    "longer_about": "Community-driven OpenStreetMap data collection and mapping initiatives across Fiji and the Pacific region.",
+    "oss_projects": [],
+    "capability_areas": [
+      "Open data publishing & sharing",
+      "Web mapping & web applications"
+    ]
+  },
+  {
+    "id": "20",
+    "listing_name": "Gold Coast Web Mapping Solutions",
+    "profile_type": ["Service provider / consultancy"],
+    "country": "Australia",
+    "city_region": "Gold Coast",
+    "lat": -28.0167,
+    "lon": 153.4,
+    "contact_url": "mailto:hello@gold-coast-web-mapping-solutions.example.org",
+    "primary_url": "https://gold-coast-web-mapping-solutions.example.org",
+    "short_description": "Web mapping development firm creating interactive mapping applications",
+    "longer_about": "Web mapping development firm creating interactive mapping applications for tourism and real estate sectors.",
+    "oss_projects": [],
+    "capability_areas": [
+      "Geospatial databases & infrastructure",
+      "Web mapping & web applications",
+      "Cartography & visualisation",
+      "Training & capacity building"
+    ]
+  },
+  {
+    "id": "5",
+    "listing_name": "Hamilton Geospatial Development",
+    "profile_type": ["Academic / research institution"],
+    "country": "New Zealand",
+    "city_region": "Hamilton",
+    "lat": -37.787,
+    "lon": 175.2793,
+    "contact_url": "mailto:hello@hamilton-geospatial-development.example.org",
+    "primary_url": "https://hamilton-geospatial-development.example.org",
+    "short_description": "Custom geospatial software development firm creating web mapping applications and spatial APIs",
+    "longer_about": "Custom geospatial software development firm creating web mapping applications and spatial APIs for Waikato region businesses.",
+    "oss_projects": [],
+    "capability_areas": [
+      "Geospatial databases & infrastructure",
+      "Web mapping & web applications",
+      "Custom development"
+    ]
+  },
+  {
+    "id": "18",
+    "listing_name": "Hobart Marine GIS",
+    "profile_type": ["Service provider / consultancy"],
+    "country": "Australia",
+    "city_region": "Hobart",
+    "lat": -42.8821,
+    "lon": 147.3272,
+    "contact_url": "mailto:hello@hobart-marine-gis.example.org",
+    "primary_url": "https://hobart-marine-gis.example.org",
+    "short_description": "Specialized marine and coastal geospatial consulting using open source tools",
+    "longer_about": "Specialized marine and coastal geospatial consulting using open source tools for Tasmania's maritime industries.",
+    "oss_projects": [],
+    "capability_areas": [
+      "Web mapping & web applications",
+      "Geospatial databases & infrastructure",
+      "Open data publishing & sharing",
+      "Consulting & advisory"
+    ]
+  },
+  {
+    "id": "27",
+    "listing_name": "Honiara Geospatial Initiative",
+    "profile_type": ["Service provider / consultancy"],
+    "country": "Solomon Islands",
+    "city_region": "Honiara",
+    "lat": -9.4281,
+    "lon": 159.9497,
+    "contact_url": "mailto:hello@honiara-geospatial-initiative.example.org",
+    "primary_url": "https://honiara-geospatial-initiative.example.org",
+    "short_description": "Community organization promoting open source GIS adoption and providing training",
+    "longer_about": "Community organization promoting open source GIS adoption and providing training in the Solomon Islands.",
+    "oss_projects": [],
+    "capability_areas": [
+      "Web mapping & web applications",
+      "Geospatial databases & infrastructure",
+      "Open data publishing & sharing"
+    ]
+  },
+  {
+    "id": "10",
+    "listing_name": "Invercargill Survey & Mapping",
+    "profile_type": ["Software vendor / maintainer"],
+    "country": "New Zealand",
+    "city_region": "Invercargill",
+    "lat": -46.4132,
+    "lon": 168.3538,
+    "contact_url": "mailto:hello@invercargill-survey-mapping.example.org",
+    "primary_url": "https://invercargill-survey-mapping.example.org",
+    "short_description": "Survey and mapping services provider using QGIS and PostGIS",
+    "longer_about": "Survey and mapping services provider using QGIS and PostGIS for land development projects in Southland region.",
+    "oss_projects": [
+      {
+        "name": "Invercargill Toolkit",
+        "url": "https://example.com/invercargill-survey-mapping"
+      }
+    ],
+    "capability_areas": [
+      "Web mapping & web applications",
+      "Geospatial databases & infrastructure",
+      "Spatial analysis & modelling"
+    ]
+  },
+  {
+    "id": "48",
+    "listing_name": "Jakarta Geospatial Development",
+    "profile_type": ["Government / public-sector organisation"],
+    "country": "Indonesia",
+    "city_region": "Jakarta",
+    "lat": -6.2088,
+    "lon": 106.8456,
+    "contact_url": "mailto:hello@jakarta-geospatial-development.example.org",
+    "primary_url": "https://jakarta-geospatial-development.example.org",
+    "short_description": "Custom geospatial software development firm creating web mapping applications",
+    "longer_about": "Custom geospatial software development firm creating web mapping applications for Indonesian enterprises.",
+    "oss_projects": [],
+    "capability_areas": [
+      "Geospatial databases & infrastructure",
+      "Web mapping & web applications",
+      "Custom development"
+    ]
+  },
+  {
+    "id": "7",
+    "listing_name": "James Kiwi - GIS Developer",
+    "profile_type": ["Software vendor / maintainer"],
+    "country": "New Zealand",
+    "city_region": "Dunedin",
+    "lat": -45.8741,
+    "lon": 170.5036,
+    "contact_url": "mailto:hello@james-kiwi-gis-developer.example.org",
+    "primary_url": "https://james-kiwi-gis-developer.example.org",
+    "short_description": "Freelance GIS developer creating custom QGIS plugins and PostGIS solutions",
+    "longer_about": "Freelance GIS developer creating custom QGIS plugins and PostGIS solutions for Otago region clients.",
+    "oss_projects": [
+      {
+        "name": "James Toolkit",
+        "url": "https://example.com/james-kiwi-gis-developer"
+      }
+    ],
+    "capability_areas": [
+      "Web mapping & web applications",
+      "Geospatial databases & infrastructure",
+      "Custom development",
+      "Spatial analysis & modelling"
+    ]
+  },
+  {
+    "id": "25",
+    "listing_name": "Lae Geospatial Services",
+    "profile_type": ["Community organisation"],
+    "country": "Papua New Guinea",
+    "city_region": "Lae",
+    "lat": -6.7153,
+    "lon": 146.9994,
+    "contact_url": "mailto:hello@lae-geospatial-services.example.org",
+    "primary_url": "https://lae-geospatial-services.example.org",
+    "short_description": "Geospatial consulting services for mining, forestry, and infrastructure projects",
+    "longer_about": "Geospatial consulting services for mining, forestry, and infrastructure projects in Papua New Guinea.",
+    "oss_projects": [],
+    "capability_areas": [
+      "Web mapping & web applications",
+      "Geospatial databases & infrastructure",
+      "Spatial analysis & modelling",
+      "Custom development"
+    ]
+  },
+  {
+    "id": "35",
+    "listing_name": "Leilani Tui - GIS Analyst",
+    "profile_type": ["Service provider / consultancy"],
+    "country": "Samoa",
+    "city_region": "Apia",
+    "lat": -13.8343,
+    "lon": -171.75813974596215,
+    "contact_url": "mailto:hello@leilani-tui-gis-analyst.example.org",
+    "primary_url": "https://leilani-tui-gis-analyst.example.org",
+    "short_description": "Independent GIS analyst providing spatial analysis and mapping services",
+    "longer_about": "Independent GIS analyst providing spatial analysis and mapping services for Samoan organizations.",
+    "oss_projects": [],
+    "capability_areas": [
+      "Web mapping & web applications",
+      "Geospatial databases & infrastructure",
+      "Custom development"
+    ]
+  },
+  {
+    "id": "32",
+    "listing_name": "Luganville GIS Services",
+    "profile_type": ["Service provider / consultancy"],
+    "country": "Vanuatu",
+    "city_region": "Luganville",
+    "lat": -15.5067,
+    "lon": 167.1767,
+    "contact_url": "mailto:hello@luganville-gis-services.example.org",
+    "primary_url": "https://luganville-gis-services.example.org",
+    "short_description": "Local GIS consulting services for Santo Island development and environmental projects",
+    "longer_about": "Local GIS consulting services for Santo Island development and environmental projects.",
+    "oss_projects": [],
+    "capability_areas": [
+      "Web mapping & web applications",
+      "Geospatial databases & infrastructure",
+      "Custom development",
+      "Training & capacity building"
+    ]
+  },
+  {
+    "id": "45",
+    "listing_name": "Manila Geospatial Solutions",
+    "profile_type": ["Academic / research institution"],
+    "country": "Philippines",
+    "city_region": "Manila",
+    "lat": 14.5995,
+    "lon": 120.9842,
+    "contact_url": "mailto:hello@manila-geospatial-solutions.example.org",
+    "primary_url": "https://manila-geospatial-solutions.example.org",
+    "short_description": "Leading geospatial consulting and development firm providing open source GIS solutions",
+    "longer_about": "Leading geospatial consulting and development firm providing open source GIS solutions for Philippine clients.",
+    "oss_projects": [],
+    "capability_areas": [
+      "Web mapping & web applications",
+      "Geospatial databases & infrastructure",
+      "Custom development"
+    ]
+  },
+  {
+    "id": "47",
+    "listing_name": "Maria Santos - GIS Consultant",
+    "profile_type": ["Service provider / consultancy"],
+    "country": "Philippines",
+    "city_region": "Quezon City",
+    "lat": 14.676,
+    "lon": 121.0437,
+    "contact_url": "mailto:hello@maria-santos-gis-consultant.example.org",
+    "primary_url": "https://maria-santos-gis-consultant.example.org",
+    "short_description": "Independent GIS consultant specializing in urban planning and infrastructure mapping",
+    "longer_about": "Independent GIS consultant specializing in urban planning and infrastructure mapping for Metro Manila clients.",
+    "oss_projects": [],
+    "capability_areas": [
+      "Web mapping & web applications",
+      "Geospatial databases & infrastructure",
+      "Custom development",
+      "Spatial analysis & modelling",
+      "Consulting & advisory"
+    ]
+  },
+  {
+    "id": "12",
+    "listing_name": "Melbourne Geospatial Research Centre",
+    "profile_type": ["Service provider / consultancy"],
+    "country": "Australia",
+    "city_region": "Melbourne",
+    "lat": -37.8136,
+    "lon": 144.9631,
+    "contact_url": "mailto:hello@melbourne-geospatial-research-centre.example.org",
+    "primary_url": "https://melbourne-geospatial-research-centre.example.org",
+    "short_description": "Leading research center in open source geospatial technologies",
+    "longer_about": "Leading research center in open source geospatial technologies, publishing research and training students.",
+    "oss_projects": [],
+    "capability_areas": [
+      "Geospatial databases & infrastructure",
+      "Custom development",
+      "Spatial analysis & modelling"
+    ]
+  },
+  {
+    "id": "44",
+    "listing_name": "Moorea Environmental Mapping",
+    "profile_type": ["Software vendor / maintainer"],
+    "country": "French Polynesia",
+    "city_region": "Paopao",
+    "lat": -17.5388,
+    "lon": -149.8294,
+    "contact_url": "mailto:hello@moorea-environmental-mapping.example.org",
+    "primary_url": "https://moorea-environmental-mapping.example.org",
+    "short_description": "Environmental mapping organization focused on conservation and sustainable development",
+    "longer_about": "Environmental mapping organization focused on conservation and sustainable development in Moorea.",
+    "oss_projects": [
+      {
+        "name": "Moorea Toolkit",
+        "url": "https://example.com/moorea-environmental-mapping"
+      }
+    ],
+    "capability_areas": [
+      "Open data publishing & sharing",
+      "Web mapping & web applications",
+      "Geospatial databases & infrastructure"
+    ]
+  },
+  {
+    "id": "36",
+    "listing_name": "Nuku'alofa Geospatial Services",
+    "profile_type": ["Government / public-sector organisation"],
+    "country": "Tonga",
+    "city_region": "Nuku'alofa",
+    "lat": -21.1394,
+    "lon": -175.2019,
+    "contact_url": "mailto:hello@nuku-alofa-geospatial-services.example.org",
+    "primary_url": "https://nuku-alofa-geospatial-services.example.org",
+    "short_description": "Geospatial consulting firm providing GIS solutions for infrastructure and disaster management",
+    "longer_about": "Geospatial consulting firm providing GIS solutions for infrastructure and disaster management in Tonga.",
+    "oss_projects": [],
+    "capability_areas": [
+      "Web mapping & web applications",
+      "Geospatial databases & infrastructure",
+      "Open data publishing & sharing"
+    ]
+  },
+  {
+    "id": "19",
+    "listing_name": "Southern Cross Geospatial Network",
+    "profile_type": ["Software vendor / maintainer"],
+    "country": "Australia",
+    "city_region": "Adelaide",
+    "lat": -34.9195,
+    "lon": 138.61069999999998,
+    "contact_url": "mailto:hello@southern-cross-geospatial-network.example.org",
+    "primary_url": "https://southern-cross-geospatial-network.example.org",
+    "short_description": "Regional network of open source geospatial practitioners running meetups, sprints and an annual conference",
+    "longer_about": "Southern Cross Geospatial Network connects open source geospatial practitioners across the region through local meetups, contributor sprints and an annual community conference. It supports newcomers with mentoring and publishes guides on adopting open source tools.",
+    "oss_projects": [
+      {
+        "name": "OSGeo Toolkit",
+        "url": "https://example.com/southern-cross-geospatial-network"
+      }
+    ],
+    "capability_areas": [
+      "Web mapping & web applications",
+      "Geospatial databases & infrastructure",
+      "Training & capacity building"
+    ]
+  },
+  {
+    "id": "8",
+    "listing_name": "Palmerston North Geospatial Lab",
+    "profile_type": ["Community organisation"],
+    "country": "New Zealand",
+    "city_region": "Palmerston North",
+    "lat": -40.3523,
+    "lon": 175.6082,
+    "contact_url": "mailto:hello@palmerston-north-geospatial-lab.example.org",
+    "primary_url": "https://palmerston-north-geospatial-lab.example.org",
+    "short_description": "University research laboratory focused on open source geospatial technologies",
+    "longer_about": "University research laboratory focused on open source geospatial technologies for teaching and research in Manawatu.",
+    "oss_projects": [],
+    "capability_areas": [
+      "Web mapping & web applications",
+      "Geospatial databases & infrastructure",
+      "Custom development",
+      "Spatial analysis & modelling"
+    ]
+  },
+  {
+    "id": "42",
+    "listing_name": "Papeete Geospatial Services",
+    "profile_type": ["Service provider / consultancy"],
+    "country": "French Polynesia",
+    "city_region": "Papeete",
+    "lat": -17.5392,
+    "lon": -149.5689,
+    "contact_url": "mailto:hello@papeete-geospatial-services.example.org",
+    "primary_url": "https://papeete-geospatial-services.example.org",
+    "short_description": "Professional geospatial consulting services for tourism and infrastructure projects",
+    "longer_about": "Professional geospatial consulting services for tourism and infrastructure projects in French Polynesia.",
+    "oss_projects": [],
+    "capability_areas": [
+      "Web mapping & web applications",
+      "Geospatial databases & infrastructure"
+    ]
+  },
+  {
+    "id": "26",
+    "listing_name": "PNG Bird of Paradise Mapping",
+    "profile_type": ["Service provider / consultancy"],
+    "country": "Papua New Guinea",
+    "city_region": "Port Moresby",
+    "lat": -9.4438,
+    "lon": 147.1803,
+    "contact_url": "mailto:hello@png-bird-of-paradise-mapping.example.org",
+    "primary_url": "https://png-bird-of-paradise-mapping.example.org",
+    "short_description": "Community mapping organization focused on OpenStreetMap data collection and training",
+    "longer_about": "Community mapping organization focused on OpenStreetMap data collection and training across Papua New Guinea.",
+    "oss_projects": [],
+    "capability_areas": [
+      "Open data publishing & sharing",
+      "Web mapping & web applications",
+      "Geospatial databases & infrastructure",
+      "Training & capacity building"
+    ]
+  },
+  {
+    "id": "24",
+    "listing_name": "Port Moresby National Mapping Agency",
+    "profile_type": ["Academic / research institution"],
+    "country": "Papua New Guinea",
+    "city_region": "Port Moresby",
+    "lat": -9.4348,
+    "lon": 147.19029999999998,
+    "contact_url": "mailto:hello@port-moresby-national-mapping-agency.example.org",
+    "primary_url": "https://port-moresby-national-mapping-agency.example.org",
+    "short_description": "National mapping agency providing authoritative geospatial data",
+    "longer_about": "National mapping agency providing authoritative geospatial data for Papua New Guinea using open source technologies.",
+    "oss_projects": [],
+    "capability_areas": [
+      "Web mapping & web applications",
+      "Geospatial databases & infrastructure",
+      "Open data publishing & sharing"
+    ]
+  },
+  {
+    "id": "30",
+    "listing_name": "Port Vila Geospatial Solutions",
+    "profile_type": ["Service provider / consultancy"],
+    "country": "Vanuatu",
+    "city_region": "Port Vila",
+    "lat": -17.7333,
+    "lon": 168.3167,
+    "contact_url": "mailto:hello@port-vila-geospatial-solutions.example.org",
+    "primary_url": "https://port-vila-geospatial-solutions.example.org",
+    "short_description": "Geospatial consulting services for disaster management and infrastructure planning",
+    "longer_about": "Geospatial consulting services for disaster management and infrastructure planning in Vanuatu.",
+    "oss_projects": [],
+    "capability_areas": [
+      "Web mapping & web applications",
+      "Geospatial databases & infrastructure",
+      "Open data publishing & sharing",
+      "Consulting & advisory"
+    ]
+  },
+  {
+    "id": "39",
+    "listing_name": "Rarotonga Geospatial Solutions",
+    "profile_type": ["Service provider / consultancy"],
+    "country": "Cook Islands",
+    "city_region": "Avarua",
+    "lat": -21.1985,
+    "lon": -159.7656,
+    "contact_url": "mailto:hello@rarotonga-geospatial-solutions.example.org",
+    "primary_url": "https://rarotonga-geospatial-solutions.example.org",
+    "short_description": "Geospatial consulting services for tourism, infrastructure, and environmental projects",
+    "longer_about": "Geospatial consulting services for tourism, infrastructure, and environmental projects in the Cook Islands.",
+    "oss_projects": [],
+    "capability_areas": [
+      "Web mapping & web applications",
+      "Geospatial databases & infrastructure",
+      "Open data publishing & sharing"
+    ]
+  },
+  {
+    "id": "23",
+    "listing_name": "Ratu Viti - GIS Specialist",
+    "profile_type": ["Software vendor / maintainer"],
+    "country": "Fiji",
+    "city_region": "Nadi",
+    "lat": -17.8014,
+    "lon": 177.4161,
+    "contact_url": "mailto:hello@ratu-viti-gis-specialist.example.org",
+    "primary_url": "https://ratu-viti-gis-specialist.example.org",
+    "short_description": "Independent GIS specialist providing geospatial consulting and training services",
+    "longer_about": "Independent GIS specialist providing geospatial consulting and training services for Fijian businesses and organizations.",
+    "oss_projects": [
+      {
+        "name": "Ratu Toolkit",
+        "url": "https://example.com/ratu-viti-gis-specialist"
+      }
+    ],
+    "capability_areas": [
+      "Web mapping & web applications",
+      "Geospatial databases & infrastructure",
+      "Custom development"
+    ]
+  },
+  {
+    "id": "9",
+    "listing_name": "Rotorua Environmental GIS",
+    "profile_type": ["Government / public-sector organisation"],
+    "country": "New Zealand",
+    "city_region": "Rotorua",
+    "lat": -38.1368,
+    "lon": 176.2497,
+    "contact_url": "mailto:hello@rotorua-environmental-gis.example.org",
+    "primary_url": "https://rotorua-environmental-gis.example.org",
+    "short_description": "Environmental geospatial consulting firm specializing in natural resource management",
+    "longer_about": "Environmental geospatial consulting firm specializing in natural resource management using open source GIS tools.",
+    "oss_projects": [],
+    "capability_areas": [
+      "Web mapping & web applications",
+      "Geospatial databases & infrastructure",
+      "Open data publishing & sharing"
+    ]
+  },
+  {
+    "id": "34",
+    "listing_name": "Samoa Geospatial Consulting",
+    "profile_type": ["Software vendor / maintainer"],
+    "country": "Samoa",
+    "city_region": "Apia",
+    "lat": -13.8343,
+    "lon": -171.77546025403782,
+    "contact_url": "mailto:hello@samoa-geospatial-consulting.example.org",
+    "primary_url": "https://samoa-geospatial-consulting.example.org",
+    "short_description": "Professional geospatial consulting services for government and private sector clients",
+    "longer_about": "Professional geospatial consulting services for government and private sector clients in Samoa.",
+    "oss_projects": [
+      {
+        "name": "Samoa Toolkit",
+        "url": "https://example.com/samoa-geospatial-consulting"
+      }
+    ],
+    "capability_areas": [
+      "Web mapping & web applications",
+      "Geospatial databases & infrastructure"
+    ]
+  },
+  {
+    "id": "3",
+    "listing_name": "Sarah Tui - Geospatial Consultant",
+    "profile_type": ["Community organisation"],
+    "country": "New Zealand",
+    "city_region": "Christchurch",
+    "lat": -43.5231,
+    "lon": 172.6462,
+    "contact_url": "mailto:hello@sarah-tui-geospatial-consultant.example.org",
+    "primary_url": "https://sarah-tui-geospatial-consultant.example.org",
+    "short_description": "Independent geospatial consultant specializing in QGIS workflows and spatial data analysis",
+    "longer_about": "Independent geospatial consultant specializing in QGIS workflows and spatial data analysis for Canterbury region clients.",
+    "oss_projects": [],
+    "capability_areas": [
+      "Web mapping & web applications",
+      "Geospatial databases & infrastructure",
+      "Custom development",
+      "Spatial analysis & modelling"
+    ]
+  },
+  {
+    "id": "28",
+    "listing_name": "Solomon Islands Marine Mapping",
+    "profile_type": ["Service provider / consultancy"],
+    "country": "Solomon Islands",
+    "city_region": "Honiara",
+    "lat": -9.4191,
+    "lon": 159.9597,
+    "contact_url": "mailto:hello@solomon-islands-marine-mapping.example.org",
+    "primary_url": "https://solomon-islands-marine-mapping.example.org",
+    "short_description": "Specialized marine and coastal mapping services using open source tools",
+    "longer_about": "Specialized marine and coastal mapping services using open source tools for environmental monitoring.",
+    "oss_projects": [],
+    "capability_areas": [
+      "Web mapping & web applications",
+      "Geospatial databases & infrastructure",
+      "Open data publishing & sharing"
+    ]
+  },
+  {
+    "id": "21",
+    "listing_name": "Suva Pacific Geospatial Consultants",
+    "profile_type": ["Service provider / consultancy"],
+    "country": "Fiji",
+    "city_region": "Suva",
+    "lat": -18.1158,
+    "lon": 178.46009999999998,
+    "contact_url": "mailto:hello@suva-pacific-geospatial-consultants.example.org",
+    "primary_url": "https://suva-pacific-geospatial-consultants.example.org",
+    "short_description": "Open source geospatial consulting firm specializing in GIS solutions for Pacific Island nations",
+    "longer_about": "Open source geospatial consulting firm specializing in GIS solutions for Pacific Island nations.",
+    "oss_projects": [],
+    "capability_areas": [
+      "Web mapping & web applications",
+      "Geospatial databases & infrastructure",
+      "Open data publishing & sharing",
+      "Training & capacity building"
+    ]
+  },
+  {
+    "id": "11",
+    "listing_name": "Sydney Cloud Geospatial Infrastructure",
+    "profile_type": ["Academic / research institution"],
+    "country": "Australia",
+    "city_region": "Sydney",
+    "lat": -33.8688,
+    "lon": 151.2093,
+    "contact_url": "mailto:hello@sydney-cloud-geospatial-infrastructure.example.org",
+    "primary_url": "https://sydney-cloud-geospatial-infrastructure.example.org",
+    "short_description": "Providing scalable cloud infrastructure for geospatial applications",
+    "longer_about": "Providing scalable cloud infrastructure for geospatial applications using open source technologies in Sydney.",
+    "oss_projects": [],
+    "capability_areas": [
+      "Geospatial databases & infrastructure",
+      "Web mapping & web applications"
+    ]
+  },
+  {
+    "id": "43",
+    "listing_name": "Tahiti Marine GIS",
+    "profile_type": ["Service provider / consultancy"],
+    "country": "French Polynesia",
+    "city_region": "Papeete",
+    "lat": -17.5302,
+    "lon": -149.55890000000002,
+    "contact_url": "mailto:hello@tahiti-marine-gis.example.org",
+    "primary_url": "https://tahiti-marine-gis.example.org",
+    "short_description": "Specialized marine and coastal geospatial services for Tahiti and surrounding islands",
+    "longer_about": "Specialized marine and coastal geospatial services for Tahiti and surrounding islands.",
+    "oss_projects": [],
+    "capability_areas": [
+      "Web mapping & web applications",
+      "Geospatial databases & infrastructure",
+      "Open data publishing & sharing",
+      "Consulting & advisory"
+    ]
+  },
+  {
+    "id": "6",
+    "listing_name": "Tauranga Coastal Mapping Services",
+    "profile_type": ["Service provider / consultancy"],
+    "country": "New Zealand",
+    "city_region": "Tauranga",
+    "lat": -37.6878,
+    "lon": 176.1651,
+    "contact_url": "mailto:hello@tauranga-coastal-mapping-services.example.org",
+    "primary_url": "https://tauranga-coastal-mapping-services.example.org",
+    "short_description": "Specialized coastal and marine geospatial services using open source tools",
+    "longer_about": "Specialized coastal and marine geospatial services using open source tools for Bay of Plenty region environmental projects.",
+    "oss_projects": [],
+    "capability_areas": [
+      "Web mapping & web applications",
+      "Geospatial databases & infrastructure",
+      "Open data publishing & sharing"
+    ]
+  },
+  {
+    "id": "52",
+    "listing_name": "Timor-Leste Mapping Initiative",
+    "profile_type": ["Software vendor / maintainer"],
+    "country": "Timor-Leste",
+    "city_region": "Dili",
+    "lat": -8.5496,
+    "lon": 125.5836,
+    "contact_url": "mailto:hello@timor-leste-mapping-initiative.example.org",
+    "primary_url": "https://timor-leste-mapping-initiative.example.org",
+    "short_description": "Community mapping organization focused on OpenStreetMap data collection and training",
+    "longer_about": "Community mapping organization focused on OpenStreetMap data collection and training across Timor-Leste.",
+    "oss_projects": [
+      {
+        "name": "Timor-Leste Toolkit",
+        "url": "https://example.com/timor-leste-mapping-initiative"
+      }
+    ],
+    "capability_areas": [
+      "Open data publishing & sharing",
+      "Web mapping & web applications",
+      "Geospatial databases & infrastructure"
+    ]
+  },
+  {
+    "id": "37",
+    "listing_name": "Tonga Mapping Initiative",
+    "profile_type": ["Government / public-sector organisation"],
+    "country": "Tonga",
+    "city_region": "Nuku'alofa",
+    "lat": -21.130399999999998,
+    "lon": -175.1919,
+    "contact_url": "mailto:hello@tonga-mapping-initiative.example.org",
+    "primary_url": "https://tonga-mapping-initiative.example.org",
+    "short_description": "Community mapping organization focused on OpenStreetMap data collection and training",
+    "longer_about": "Community mapping organization focused on OpenStreetMap data collection and training in Tonga.",
+    "oss_projects": [],
+    "capability_areas": [
+      "Open data publishing & sharing",
+      "Web mapping & web applications",
+      "Geospatial databases & infrastructure"
+    ]
+  },
+  {
+    "id": "31",
+    "listing_name": "Vanuatu Open Data Portal",
+    "profile_type": ["Software vendor / maintainer"],
+    "country": "Vanuatu",
+    "city_region": "Port Vila",
+    "lat": -17.7243,
+    "lon": 168.3267,
+    "contact_url": "mailto:hello@vanuatu-open-data-portal.example.org",
+    "primary_url": "https://vanuatu-open-data-portal.example.org",
+    "short_description": "Government open data initiative providing geospatial datasets for public access",
+    "longer_about": "Government open data initiative providing geospatial datasets for public access and use.",
+    "oss_projects": [
+      {
+        "name": "Vanuatu Toolkit",
+        "url": "https://example.com/vanuatu-open-data-portal"
+      }
+    ],
+    "capability_areas": [
+      "Geospatial databases & infrastructure",
+      "Web mapping & web applications",
+      "Open data publishing & sharing"
+    ]
+  },
+  {
+    "id": "38",
+    "listing_name": "Vava'u Marine GIS",
+    "profile_type": ["Community organisation"],
+    "country": "Tonga",
+    "city_region": "Neiafu",
+    "lat": -18.65,
+    "lon": -173.9833,
+    "contact_url": "mailto:hello@vava-u-marine-gis.example.org",
+    "primary_url": "https://vava-u-marine-gis.example.org",
+    "short_description": "Specialized marine geospatial services for Vava'u Group islands",
+    "longer_about": "Specialized marine geospatial services for Vava'u Group islands using open source mapping tools.",
+    "oss_projects": [],
+    "capability_areas": [
+      "Web mapping & web applications",
+      "Geospatial databases & infrastructure"
+    ]
+  },
+  {
+    "id": "2",
+    "listing_name": "Wellington GIS Academy",
+    "profile_type": ["Service provider / consultancy"],
+    "country": "New Zealand",
+    "city_region": "Wellington",
+    "lat": -41.2865,
+    "lon": 174.7762,
+    "contact_url": "mailto:hello@wellington-gis-academy.example.org",
+    "primary_url": "https://wellington-gis-academy.example.org",
+    "short_description": "Professional geospatial training institute offering comprehensive programs in open source GIS",
+    "longer_about": "Professional geospatial training institute offering comprehensive programs in open source GIS software for professionals across New Zealand.",
+    "oss_projects": [],
+    "capability_areas": [
+      "Web mapping & web applications",
+      "Geospatial databases & infrastructure",
+      "Custom development"
+    ]
+  }
+]

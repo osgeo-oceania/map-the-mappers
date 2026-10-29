@@ -1,0 +1,27 @@
+# Close unsolicited pull requests under the policy in CONTRIBUTING.md.
+name: Close pull requests
+
+on:
+  pull_request_target:
+    types: [opened, reopened]
+
+permissions:
+  pull-requests: write
+
+jobs:
+  close:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/github-script@v7
+        with:
+          script: |
+            const { owner, repo } = context.repo
+            const issue_number = context.payload.pull_request.number
+            await github.rest.issues.createComment({
+              owner, repo, issue_number,
+              body:
+                'Thanks for your interest. This repository is published source with closed development and does not accept pull requests — ' +
+                'see CONTRIBUTING.md. The code is Apache-2.0: fork it and build on it freely. ' +
+                'Setup or adaptation questions are welcome as issues.',
+            })
+            await github.rest.pulls.update({ owner, repo, pull_number: issue_number, state: 'closed' })

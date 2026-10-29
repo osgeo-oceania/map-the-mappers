@@ -1,0 +1,36 @@
+# OSGeo Oceania OSS Capabilities Map
+
+> A public directory and interactive map of the people, organisations,
+> projects and services working with open source geospatial software across
+> Oceania — Australia, New Zealand, the Pacific Islands, Indonesia, the
+> Philippines and Timor-Leste. Maintained by OSGeo Oceania, the regional
+> chapter of the Open Source Geospatial Foundation.
+
+Use this site to answer questions like "who provides open source GIS
+services in Fiji?" or "which organisations contribute to QGIS in New
+Zealand?". Each listing is a vetted organisation with its location,
+capability areas and links, published with schema.org Organization markup.
+
+## Key pages
+
+- [Interactive map and directory](https://map.osgeo-oceania.org/map): all
+  published listings, filterable by profile type, capability area and
+  country.
+- [Sitemap](https://map.osgeo-oceania.org/sitemap.xml): every listing's
+  own page, at `/map/<organisation-name>-<id>`.
+- [About](https://map.osgeo-oceania.org/about): why the map exists and its
+  roadmap.
+- [Submit a listing](https://map.osgeo-oceania.org/submit): how
+  organisations join the directory (moderated; free).
+- [Listing criteria](https://map.osgeo-oceania.org/listing-criteria): who
+  qualifies.
+
+## Data and licensing
+
+- Listing content is provided by the organisations themselves and
+  moderated by OSGeo Oceania. Please attribute the OSGeo Oceania OSS
+  Capabilities Map when citing it.
+- Basemap: © OpenStreetMap contributors (ODbL), via Protomaps. Place
+  search: GeoNames (CC BY 4.0). Details:
+  [terms](https://map.osgeo-oceania.org/terms-and-privacy).
+- Contact: admin@osgeo-oceania.org

@@ -1,0 +1,63 @@
+{
+  "name": "osgeo-map",
+  "version": "2.2.0",
+  "description": "Public directory and map of open source geospatial capability across Oceania",
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "validate-data": "tsx scripts/validate-profiles.ts",
+    "check:secrets": "node scripts/check-secrets.mjs",
+    "prebuild": "tsx scripts/validate-profiles.ts",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "vitest run",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,css,md}\""
+  },
+  "dependencies": {
+    "@protomaps/basemaps": "^5.7.2",
+    "@radix-ui/react-checkbox": "^1.4.1",
+    "@radix-ui/react-dialog": "^1.3.1",
+    "@radix-ui/react-label": "^2.1.17",
+    "@radix-ui/react-popover": "^1.3.1",
+    "@radix-ui/react-select": "^2.4.1",
+    "@radix-ui/react-slot": "^1.5.0",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "fuse.js": "^7.4.2",
+    "lucide-react": "^1.57.0",
+    "maplibre-gl": "^6.14.0",
+    "next": "15.5.28",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "supercluster": "^8.0.1",
+    "tailwind-merge": "^2.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@types/supercluster": "^7.1.3",
+    "autoprefixer": "^10.4.17",
+    "eslint": "^8.56.0",
+    "eslint-config-next": "^15.5.28",
+    "eslint-plugin-jsx-a11y": "^6.10.2",
+    "postcss": "^8.4.35",
+    "prettier": "^3.2.4",
+    "prettier-plugin-tailwindcss": "^0.5.11",
+    "tailwindcss": "^3.4.1",
+    "tailwindcss-animate": "^1.0.7",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3",
+    "vitest": "^4.1.12"
+  },
+  "overrides": {
+    "next": {
+      "postcss": "^8.5.23"
+    },
+    "vite": "^7.3.7"
+  }
+}

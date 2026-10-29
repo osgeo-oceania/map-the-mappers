@@ -1,0 +1,11 @@
+# Build output / dependencies
+.next
+node_modules
+package-lock.json
+
+# Preserve compact generated data and vendored asset formatting.
+public/data/oceania-gazetteer.json
+public/basemap/
+
+# Local notes
+local.env.md

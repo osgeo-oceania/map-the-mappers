@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security problem
+    url: mailto:admin@osgeo-oceania.org?subject=Security
+    about: Report vulnerabilities privately by email; see SECURITY.md for the reporting policy.

@@ -1,0 +1,501 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "American Samoa",
+        "upstream": false,
+        "offset": [
+          2.0,
+          0.9
+        ],
+        "name_local": "Amerika Sāmoa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -170.7,
+          -14.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Australia",
+        "upstream": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134,
+          -25.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Christmas Island",
+        "upstream": false,
+        "offset": [
+          1.0,
+          0.9
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7,
+          -10.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cocos (Keeling) Islands",
+        "upstream": false,
+        "offset": [
+          -1.2,
+          -0.7
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.9,
+          -12.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cook Islands",
+        "upstream": true,
+        "offset": [
+          0.9,
+          1.4
+        ],
+        "name_local": "Kūki ʻĀirani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.8,
+          -20.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fiji",
+        "upstream": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.9,
+          -17.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "French Polynesia",
+        "upstream": false,
+        "name_local": "Polynésie française"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5,
+          -17.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guam",
+        "upstream": false,
+        "offset": [
+          1.4,
+          0.8
+        ],
+        "name_local": "Guåhan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8,
+          13.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Indonesia",
+        "upstream": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          -2.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kiribati",
+        "upstream": true,
+        "offset": [
+          1.2,
+          -0.6
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173,
+          1.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marshall Islands",
+        "upstream": true,
+        "name_local": "Aolepān Aorōkin Ṃajeḷ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.9,
+          7.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Micronesia",
+        "upstream": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152,
+          6.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nauru",
+        "upstream": true,
+        "offset": [
+          -1.4,
+          0.5
+        ],
+        "name_local": "Naoero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.9,
+          -0.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Caledonia",
+        "upstream": false,
+        "name_local": "Nouvelle-Calédonie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.6,
+          -21.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Zealand",
+        "upstream": true,
+        "name_local": "Aotearoa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6,
+          -41.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Niue",
+        "upstream": true,
+        "offset": [
+          -0.6,
+          1.0
+        ],
+        "name_local": "Niuē"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -169.9,
+          -19.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Norfolk Island",
+        "upstream": false,
+        "name_local": "Norf’k Ailen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168,
+          -29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Northern Mariana Islands",
+        "upstream": false,
+        "offset": [
+          -0.6,
+          -1.1
+        ],
+        "name_local": "Notte Mariånas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7,
+          15.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palau",
+        "upstream": true,
+        "name_local": "Belau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5,
+          7.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Papua New Guinea",
+        "upstream": true,
+        "name_local": "Papua Niugini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3,
+          -6.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Philippines",
+        "upstream": true,
+        "name_local": "Pilipinas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.2,
+          12.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pitcairn Islands",
+        "upstream": true,
+        "name_local": "Pitkern Ailen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -128.3,
+          -24.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samoa",
+        "upstream": true,
+        "offset": [
+          0.9,
+          -1.4
+        ],
+        "name_local": "Sāmoa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.5,
+          -13.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Solomon Islands",
+        "upstream": true,
+        "name_local": "Solomon Aelan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.2,
+          -9.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Timor-Leste",
+        "upstream": true,
+        "name_local": "Timór-Leste"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.9,
+          -8.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tokelau",
+        "upstream": true,
+        "offset": [
+          0.4,
+          -1.6
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.9,
+          -9.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tonga",
+        "upstream": true,
+        "offset": [
+          -1.4,
+          0.6
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.2,
+          -21.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tuvalu",
+        "upstream": true,
+        "offset": [
+          -1.6,
+          -0.6
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.2,
+          -8.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vanuatu",
+        "upstream": true,
+        "name_local": "Ripablik blong Vanuatu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.6,
+          -16.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wallis & Futuna",
+        "upstream": false,
+        "offset": [
+          -2.6,
+          -0.5
+        ],
+        "name_local": "Wallis-et-Futuna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -177.2,
+          -13.3
+        ]
+      }
+    }
+  ]
+}

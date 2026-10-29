@@ -1,0 +1,235 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import 'maplibre-gl/dist/maplibre-gl.css';
+
+@layer base {
+  :root {
+    /* Theme variables for shadcn/ui. */
+    --background: 45 18% 97%;
+    --foreground: 0 0% 11%;
+
+    --card: 45 18% 97%;
+    --card-foreground: 0 0% 11%;
+
+    --popover: 45 18% 97%;
+    --popover-foreground: 0 0% 11%;
+
+    --primary: 104 43% 47%;
+    --primary-foreground: 0 0% 98%;
+
+    --secondary: 186 35% 15%;
+    --secondary-foreground: 0 0% 98%;
+
+    --muted: 60 7% 85%;
+    --muted-foreground: 0 0% 45%;
+
+    --accent: 149 44% 71%;
+    --accent-foreground: 0 0% 11%;
+
+    --destructive: 7 76% 55%;
+    --destructive-foreground: 0 0% 98%;
+
+    --success: 174 43% 45%;
+
+    --border: 60 7% 85%;
+    --input: 60 7% 85%;
+    --ring: 104 43% 47%;
+
+    --radius: 0.5rem;
+
+    --chart-1: 12 76% 61%;
+    --chart-2: 173 58% 39%;
+    --chart-3: 197 37% 24%;
+    --chart-4: 43 74% 66%;
+    --chart-5: 27 87% 67%;
+  }
+
+  .dark {
+    --background: 0 0% 11%;
+    --foreground: 45 18% 97%;
+    --card: 0 0% 11%;
+    --card-foreground: 45 18% 97%;
+    --popover: 0 0% 11%;
+    --popover-foreground: 45 18% 97%;
+    --primary: 104 43% 47%;
+    --primary-foreground: 0 0% 98%;
+    --secondary: 186 35% 15%;
+    --secondary-foreground: 0 0% 98%;
+    --muted: 0 0% 15%;
+    --muted-foreground: 0 0% 64%;
+    --accent: 149 44% 25%;
+    --accent-foreground: 0 0% 98%;
+    --destructive: 7 76% 55%;
+    --destructive-foreground: 0 0% 98%;
+    --success: 174 43% 45%;
+    --border: 0 0% 20%;
+    --input: 0 0% 20%;
+    --ring: 104 43% 47%;
+    --chart-1: 220 70% 50%;
+    --chart-2: 160 60% 45%;
+    --chart-3: 30 80% 55%;
+    --chart-4: 280 65% 60%;
+    --chart-5: 340 75% 55%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-brand-secondary;
+    font-family: var(--font-plus-jakarta-sans), sans-serif;
+  }
+
+  /* Typography */
+  h1,
+  h2 {
+    font-family: var(--font-ibm-plex-serif), serif;
+    font-weight: 500;
+    color: #183138;
+  }
+
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: var(--font-plus-jakarta-sans), sans-serif;
+    color: #183138;
+  }
+
+  p {
+    color: #183138;
+  }
+
+  button,
+  .btn,
+  [role='button'] {
+    font-family: var(--font-inter), sans-serif;
+  }
+
+  /* Exclude links rendered as buttons. */
+  a:not(button a):not(.btn):not([role='button']):not(button > a):not(
+      [data-slot]
+    ):not([class*='font-button']):not(
+      [class*='inline-flex items-center justify-center']
+    ):hover {
+    text-decoration: underline;
+  }
+
+  button a:hover,
+  button:hover a,
+  .btn:hover,
+  [role='button'] a:hover,
+  [role='button']:hover a,
+  a[data-slot]:hover,
+  button[data-slot]:hover,
+  a[class*='font-button']:hover,
+  a[class*='inline-flex items-center justify-center'][class*='rounded-md']:hover,
+  a.font-button:hover {
+    text-decoration: none !important;
+  }
+}
+
+.search-go-button:hover {
+  transform: translateY(-50%) translateX(0) !important;
+}
+
+.maplibregl-map {
+  width: 100%;
+  height: 100%;
+}
+
+.maplibregl-popup-close-button {
+  width: 1.5rem;
+  height: 1.5rem;
+  font-size: 1.25rem;
+  padding: 0.25rem;
+  top: 0.35rem;
+  right: 0.35rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 1;
+}
+
+.maplibregl-popup {
+  max-width: 280px !important;
+  z-index: 1000;
+}
+
+/* The wrapper supplies the background; content padding clears the close button. */
+.maplibregl-popup-content {
+  max-width: 100%;
+  overflow: visible;
+  background-color: transparent !important;
+  padding: 0.75rem 0.85rem 0.85rem !important;
+  box-shadow: none !important;
+  font-family: var(--font-plus-jakarta-sans), sans-serif;
+}
+
+.maplibregl-popup-tip {
+  display: none;
+}
+
+/* Dock mobile popups to keep them inside the map viewport. */
+@media (max-width: 767px) {
+  .maplibregl-popup {
+    position: absolute !important;
+    top: auto !important;
+    right: 0 !important;
+    bottom: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    max-width: none !important;
+    /* Override MapLibre’s inline pin-relative transform. */
+    transform: none !important;
+  }
+
+  .maplibregl-popup .maplibregl-popup-content {
+    border-radius: 12px 12px 0 0;
+    padding: 1rem 1rem 1.15rem !important;
+    box-shadow: 0 -4px 16px rgba(24, 49, 56, 0.14) !important;
+  }
+
+  .maplibregl-popup-close-button {
+    width: 2rem;
+    height: 2rem;
+    font-size: 1.5rem;
+    top: 0.5rem;
+    right: 0.5rem;
+  }
+}
+
+/* Responsive type classes; keep sizes off bare heading tags to avoid styling library components. */
+@layer components {
+  .type-display {
+    @apply text-4xl md:text-5xl lg:text-6xl;
+  }
+
+  .type-section {
+    @apply text-4xl md:text-4xl lg:text-5xl;
+  }
+
+  .type-title {
+    @apply text-2xl md:text-3xl lg:text-4xl;
+  }
+
+  .type-heading {
+    @apply text-xl md:text-2xl lg:text-3xl;
+  }
+
+  .type-subheading {
+    @apply text-lg md:text-xl lg:text-2xl;
+  }
+
+  .type-lead {
+    @apply text-lg md:text-xl;
+  }
+
+  .type-body {
+    @apply text-base md:text-lg;
+  }
+}
