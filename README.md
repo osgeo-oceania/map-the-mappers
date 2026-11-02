@@ -115,14 +115,15 @@ host, with its own instructions; no Vercel account is required.
 
 ## Documentation
 
-|                                              |                                                                      |
-| -------------------------------------------- | -------------------------------------------------------------------- |
-| [docs/FEED.md](docs/FEED.md)                 | The listings data: modes, every field, and a validator               |
-| [docs/ADAPTING.md](docs/ADAPTING.md)         | Everything to replace for your region, as a checklist                |
-| [docs/SETUP.md](docs/SETUP.md)               | Deployment: bundled JSON or a hosted feed                            |
-| [docs/architecture.md](docs/architecture.md) | How the pieces fit, the basemap and country labels, known trade-offs |
-| [CONTRIBUTING.md](CONTRIBUTING.md)           | Forks yes, pull requests no; questions via issues                    |
-| [SECURITY.md](SECURITY.md)                   | Reporting a vulnerability                                            |
+|                                                                 |                                                                                                             |
+| --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| [Data sources and attribution](ASSETS.md#data-shown-on-the-map) | Origins and licences of map data; geographic-file details in [public/data/README.md](public/data/README.md) |
+| [docs/FEED.md](docs/FEED.md)                                    | The listings data: modes, every field, and a validator                                                      |
+| [docs/ADAPTING.md](docs/ADAPTING.md)                            | Everything to replace for your region, as a checklist                                                       |
+| [docs/SETUP.md](docs/SETUP.md)                                  | Deployment: bundled JSON or a hosted feed                                                                   |
+| [docs/architecture.md](docs/architecture.md)                    | How the pieces fit, the basemap and country labels, known trade-offs                                        |
+| [CONTRIBUTING.md](CONTRIBUTING.md)                              | Forks yes, pull requests no; questions via issues                                                           |
+| [SECURITY.md](SECURITY.md)                                      | Reporting a vulnerability                                                                                   |
 
 ## Stack
 

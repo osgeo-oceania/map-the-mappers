@@ -52,11 +52,15 @@ Vendored from `protomaps/basemaps-assets`. The fonts in
 
 ## Data shown on the map
 
-| Data                                                | Source and licence                                                                                                                                     |
-| --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Basemap                                             | © OpenStreetMap contributors, [ODbL](https://opendatacommons.org/licenses/odbl/), via [Protomaps](https://protomaps.com)                              |
-| Place search (`public/data/oceania-gazetteer.json`) | [GeoNames](https://www.geonames.org), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)                                                        |
-| `data/sample-profiles.json`                         | Fictional sample listings describing fictional organisations; [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) (public domain dedication) |
+| Data                                                              | Source and licence                                                                                                                                                                                                                                                                                                                   |
+| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Basemap                                                           | © OpenStreetMap contributors, [ODbL](https://opendatacommons.org/licenses/odbl/), via [Protomaps](https://protomaps.com)                                                                                                                                                                                                            |
+| Place search (`public/data/oceania-gazetteer.json`)               | [GeoNames](https://www.geonames.org), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)                                                                                                                                                                                                                                      |
+| Country label positions (`public/data/oceania-countries.geojson`) | Created for this app by Cartisan for OSGeo Oceania; [Apache-2.0](LICENSE). Coordinates selected by hand to position country and territory labels, following OSGeo Oceania's scope definition. For cartographic label placement, not boundary or geographic analysis. Local-language names from [Wikidata](https://www.wikidata.org). |
+| `data/sample-profiles.json`                                       | Fictional sample listings describing fictional organisations; [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) (public domain dedication)                                                                                                                                                                               |
 
 The map's attribution control and the terms page carry the basemap and
 place-search credits. Keep them in a fork.
+
+For file contents, source links and regeneration instructions, see
+[public/data/README.md](public/data/README.md).
